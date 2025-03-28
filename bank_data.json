@@ -1,0 +1,1 @@
+{"12345": {"pin": "1234", "balance": 1000.0, "transactions": ["Account created with balance 1000.0"]}, "67890": {"pin": "5678", "balance": 500.0, "transactions": ["Account created with balance 500.0"]}, "1234": {"pin": "0000", "balance": 100.0, "transactions": []}}
