@@ -1,7 +1,7 @@
 # bank_system
 ** Bank System Project it's a open source project for simple simulation for online banking App**
 
-**first :  installing  packages **
+**first :  installing  packages**
  you must install   tkinter  (for GUI)
 pip install tkinter
 
